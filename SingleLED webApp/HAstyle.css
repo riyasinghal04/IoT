@@ -1,0 +1,50 @@
+body
+{
+        text-align:center;
+	background-color: rgba(7, 113, 128, 0.486);
+}
+
+h1
+{
+	background-color: rgb(5, 29, 95);
+        color: white;
+        padding: 10px;
+        text-align: center;
+        font-family: "Times New Roman";
+        font-size:50px;
+}
+h2
+{
+        color : rgb(3, 16, 51);
+        font-family: "Times New Roman";
+        font-size: 1cm;
+        
+}
+h3
+{
+        color : black;
+        font-family: "Times New Roman";
+        font-size: 0.6cm;
+}
+.lightbutton
+{
+        height:2cm;
+        width: 3cm;
+        font-family: "Times New Roman";
+        font-size: 0.7cm;
+        
+}
+.statusbutton
+{
+   
+        height:1cm;
+        width: 3cm;
+        font-family: "Times New Roman";
+        font-size: 0.6cm;
+        margin-top:2cm;     
+}
+#imgled
+{
+        height:4cm;
+        width:5cm;
+}
