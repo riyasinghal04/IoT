@@ -1,0 +1,53 @@
+body
+{
+        text-align:center;
+	background-color:  rgb(4, 37, 63);
+}
+
+h1
+{
+	background-color: rgb(9, 86, 122);
+        color: rgb(106, 159, 189);
+        padding: 10px;
+        text-align: center;
+        font-family: "Times New Roman";
+        font-size:50px;
+}
+h2{
+        color: rgb(4, 75, 116);
+        padding: 10px;
+        text-align: center;
+        font-family: "Times New Roman";
+        font-size:25px;
+}
+div
+{
+        width:12cm;
+        margin : 15px;
+        padding : 20px;
+        border : 2px inset rgb(49, 124, 182);
+        background-color: rgb(106, 159, 189);
+        align-self :center;
+        border-radius: 20px;
+        box-shadow: 0 15px 25px rgba(44, 120, 190, 0.5);
+        
+} 
+.imgled
+{
+       height:2cm;
+       width: 2.3cm;
+       border-spacing:40px;
+       padding-top: 0px;
+}
+.lightbutton
+{
+        background-color: white;
+        height:1.5cm;
+        width:3cm;
+        
+        
+}
+table{
+        padding : 5px;
+        spaci
+}
